@@ -1,0 +1,233 @@
+11,La Guerre des étoiles,1977,1,Aventure
+24,Kill Bill : Volume 1,2003,138,Action
+28,Apocalypse Now,1979,1776,Drame
+33,Impitoyable,1992,190,Western
+38,Eternal Sunshine of the Spotless Mind,2004,201,Science-Fiction
+59,A History of Violence,2005,224,Drame
+62,2001 lOdyssée de lespace,1968,240,Science-Fiction
+74,La Guerre des Mondes,2005,488,Aventure
+77,Memento,2000,525,Mystère
+78,Blade Runner,1982,578,Science-Fiction
+85,Les Aventuriers de larche perdue,1981,488,Aventure
+87,Indiana Jones et le temple maudit,1984,488,Aventure
+89,Indiana Jones et la dernière croisade,1989,488,Aventure
+98,Gladiator,2000,578,Action
+103,Taxi Driver,1976,1032,Crime
+116,Match point,2005,1243,Drame
+142,Le Secret de Brokeback Mountain,2005,1614,Drame
+145,Breaking the Waves,1996,42,Drame
+146,Tigre et Dragon,2000,1614,Aventure
+147,Les Quatre Cents Coups,1959,1650,Drame
+153,Lost in Translation,2003,1769,Drame
+155,The Dark Knight : Le Chevalier noir,2008,525,Drame
+180,Minority Report,2002,488,Action
+184,Jackie Brown,1997,138,Crime
+192,Le Nom de la rose,1986,2352,Drame
+213,La Mort aux trousses,1959,2636,Mystère
+218,Terminator,1984,2710,Action
+223,Rebecca,1940,2636,Drame
+238,Le Parrain,1972,1776,Drame
+239,Certains laiment chaud,1959,3146,Comédie
+240,Le Parrain 2ème partie,1974,1776,Drame
+242,Le Parrain 3ème partie,1990,1776,Crime
+247,LUltime Razzia,1956,240,Crime
+266,Le Mépris,1963,3776,Drame
+269,Ã€ bout de souffle,1960,3776,Drame
+272,Batman Begins,2005,525,Action
+274,Le Silence des Agneaux,1991,16294,Action
+275,Fargo,1996,1223,Crime
+289,Casablanca,1942,4109,Drame
+303,Les Enchans,1946,2636,Thriller
+329,Jurassic Park,1993,488,Aventure
+330,Le monde perdu : Jurassic Park,1997,488,Aventure
+345,Eyes Wide Shut,1999,240,Mystère
+346,Les sept samourais,1954,5026,Action
+348,Alien le huitime passager,1979,578,Horreur
+387,Le Bateau,1981,5231,Drame
+393,Kill Bill : Volume 2,2004,138,Action
+423,Le Pianiste,2002,3556,Drame
+424,La liste de Schindler,1993,488,Drame
+426,Sueurs froides,1958,2636,Mystère
+429,Le Bon la Brute et le Truand,1966,4385,Western
+439,La Dolce vita,1960,4415,Comédie
+500,Reservoir Dogs,1992,138,Crime
+510,Vol au dessus dun nid de coucou,1975,3974,Drame
+512,Scoop,2006,1243,Comédie
+524,Casino,1995,1032,Crime
+539,Psychose,1960,2636,Horreur
+548,RashÃ´mon,1950,5026,Crime
+550,Fight Club,1999,7467,Drame
+557,Spider-Man,2002,7623,Fantastique
+558,Spider-Man 2,2004,7623,Action
+559,Spider-Man 3,2007,7623,Fantastique
+562,PiÃ¨ge de cristal,1988,1090,Action
+563,Starship Troopers,1997,10491,Aventure
+567,Fenêtre sur cour,1954,2636,Drame
+571,Les Oiseaux,1963,2636,Horreur
+574,Lhomme qui en savait trop,1956,2636,Aventure
+578,Les Dents de la mer,1975,488,Horreur
+592,Conversation secrête,1974,1776,Crime
+593,Solaris,1972,8452,Drame
+597,Titanic,1997,2710,Drame
+599,Boulevard du Crépuscule,1950,3146,Drame
+601,E.T. lextra-terrestre,1982,488,Science-Fiction
+603,Matrix,1999,9339,Action
+604,Matrix Reloaded,2003,9340,Aventure
+606,Out of Africa : Souvenirs dAfrique,1985,2226,Histoire
+629,Usual Suspects,1995,9032,Drame
+649,Belle de jour,1967,793,Drame
+665,Ben-Hur,1959,10001,Aventure
+680,Pulp Fiction,1994,138,Thriller
+694,Shining,1980,240,Horreur
+696,Manhattan,1979,1243,Comédie
+703,Annie Hall,1977,1243,Comédie
+754,Volte/Face,1997,11401,Action
+769,Les Affranchis,1990,1032,Drame
+773,Little Miss Sunshine,2006,16960,Comédie
+777,La Grande Illusion,1937,11528,Drame
+797,Persona,1966,6648,Drame
+805,Rosemarys Baby,1968,3556,Horreur
+807,Seven,1995,7467,Crime
+829,Chinatown,1974,3556,Crime
+832,M le maudit,1931,68,Drame
+838,American Graffiti,1973,1,Comédie
+839,Duel,1971,488,Action
+840,Rencontres du troisième type,1977,488,Science-Fiction
+845,LInconnu du Nord-Express,1951,2636,Crime
+857,Il faut sauver le soldat Ryan,1998,488,Drame
+861,Total Recall,1990,10491,Action
+872,Chantons sous la pluie,1952,13294,Comédie
+891,Les Hommes du président,1976,6349,Drame
+914,Le dictateur,1940,13848,Comédie
+949,Heat,1995,638,Action
+967,Spartacus,1960,240,Action
+968,Un aprÃ¨s-midi de chien,1975,39996,Crime
+975,Les sentiers de la gloire,1957,240,Drame
+983,LHomme qui voulut être roi,1975,6593,Aventure
+996,Assurance sur la mort,1944,3146,Crime
+1018,Mulholland Drive,2001,5602,Thriller
+1091,The Thing,1982,11770,Horreur
+1164,Babel,2006,223,Drame
+1254,Je vais bien ne ten fais pas,2006,21669,Drame
+1398,Stalker,1979,8452,Science-Fiction
+1443,Virgin suicides,1999,1769,Drame
+1538,Collatéral,2004,638,Drame
+1541,Thelma et Louise,1991,578,Drame
+1553,De battre mon cÅ“ur sest arrêté,2005,17496,Musique
+1571,Die Hard 4 : Retour en enfer,2007,3950,Action
+1572,Une Journée en enfer,1995,1090,Action
+1573,58 minutes pour vivre,1990,16938,Action
+1628,Jules et Jim,1962,1650,Drame
+1716,Le Dernier Métro,1980,1650,Drame
+1891,LEmpire contre-attaque,1980,10930,Aventure
+1892,Le Retour du Jedi,1983,19800,Aventure
+1893,Star Wars épisode I - La Menace fantâme,1999,1,Aventure
+1894,Star Wars épisode II - LAttaque des clones,2002,1,Aventure
+1895,Star Wars épisode III - La Revanche des Sith,2005,1,Science-Fiction
+1955,Elephant Man,1980,5602,Drame
+1985,The constant gardener,2005,8557,Drame
+2252,Les Promesses de lombre,2007,224,Thriller
+2433,Les demoiselles de Rochefort,1967,24882,Musique
+2668,Sleepy Hollow La Légende du cavalier sans tête,1999,510,Drame
+2786,Pierrot le fou,1965,3776,Drame
+2817,On connaÃ®t la chanson,1997,11983,Drame
+3053,Le Bal des vampires,1967,3556,Comédie
+3082,Les temps modernes,1936,13848,Drame
+3175,Barry Lyndon,1975,240,Drame
+3766,La Dame de Shanghai,1947,40,Crime
+3767,Gilda,1946,32134,Drame
+4034,LHomme de Rio,1964,34613,Action
+4584,Raison et Sentiments,1995,1614,Drame
+4808,Charade,1963,13284,Comédie
+5503,Le Fugitif,1993,12989,Aventure
+5511,Le SamouraÃ¯,1967,3831,Crime
+5548,RoboCop,1987,10491,Action
+6075,LImpasse,1993,1150,Crime
+6114,Dracula daprÃ¨s Bram Stoker,1992,1776,Romance
+6977,No Country For Old Men,2007,1224,Crime
+8053,Trois enterrements,2005,2176,Aventure
+8217,Alice,1990,1243,Comédie
+8290,La Grande Vadrouille,1966,11195,Comédie
+8489,Ali,2001,638,Drame
+9008,Révélations,1999,638,Drame
+9075,Black book,2006,10491,Drame
+9208,Broken Arrow,1996,11401,Action
+9281,Witness,1985,2690,Crime
+9361,Le Dernier des mohicans,1992,638,Action
+9426,La Mouche,1986,224,Horreur
+9540,Faux-semblants,1988,224,Thriller
+9558,The King of New York,1990,39104,Thriller
+10098,Le Kid,1921,13848,Comédie
+10669,Délivrance,1972,19665,Drame
+10675,Frantic,1988,3556,Crime
+10835,The Killer,1989,11401,Action
+10889,Gloria,1980,11147,Drame
+10935,La Porte du paradis,1980,12114,Drame
+11183,Les Bronzés,1978,37626,Comédie
+11368,Sang pour sang,1984,1223,Crime
+11439,The ghost writer,2010,3556,Thriller
+11462,SoupÃ§ons,1941,2636,Mystère
+11657,Le Cercle rouge,1970,3831,Drame
+11778,Voyage au bout de lenfer,1978,12114,Drame
+11953,Kagemusha lombre du guerrier,1980,5026,Action
+11963,Les 3 jours du Condor,1975,2226,Thriller
+12143,Bad Lieutenant,1992,39104,Crime
+15152,OSS 117 : Le Caire nid despions,2006,67717,Crime
+15383,LArmée des ombres,1969,3831,Guerre
+15588,OSS 117 : Rio ne répond plus,2009,67717,Crime
+15867,Intérieurs,1978,1243,Drame
+16869,Inglourious Basterds,2009,138,Drame
+21575,Un prophÃ¨te,2009,17496,Crime
+24657,Le sacrifice,1986,8452,Drame,
+25253,Les tontons flingueurs,1963,18563,Action
+27205,Inception,2010,525,Action
+28384,Maris et femmes,1992,1243,Romance
+28971,Les feux de la rampe,1952,13848,Drame
+29084,Le Corbeau,1943,2559,Drame
+29845,Une femme sous influence,1974,11147,Drame
+33665,Opening Night,1977,11147,Drame
+33701,Les Bronzés font du ski,1979,37626,Aventure
+36557,Casino Royale,2006,10702,Aventure
+37724,Skyfall,2012,39,Action,
+37799,The Social Network,2010,7467,Drame,
+40805,The Green Hornet,2011,201,Action,
+42661,Les Vikings,1958,2087,Action
+43884,La Charge de la brigade légÃ¨re,1936,4109,Action
+44214,Black Swan,2010,6431,Drame
+46738,Incendies,2010,137427,Drame
+47943,Harry un ami qui vous veut du bien,2000,18175,Drame
+49026,The Dark Knight Rises,2012,525,Action
+59436,Minuit Ã  Paris,2011,1243,Fantastique
+62215,Melancholia,2011,42,Drame
+64720,Take Shelter,2011,71872,Thriller
+65754,Millénium : Les hommes qui naimaient pas les femmes,2011,7467,Thriller
+68718,Django Unchained,2012,138,Drame
+70981,Prometheus,2012,578,Science-Fiction
+103731,Mud - Sur les rives du Mississippi,2013,71872,Drame
+110415,Snowpiercer : Le Transperceneige,2013,21684,Action
+126889,AlienÂ : Covenant,2017,578,Horreur
+133919,ScÃ¨nes de la vie conjugale,1973,6648,Drame
+140607,Star WarsÂ : Le Réveil de la Force,2015,15344,Action
+146233,Prisoners,2013,137427,Drame
+157336,Interstellar,2014,525,Aventure
+181808,Star Wars : Les Derniers Jedi,2017,67367,Fantastique
+181812,Star Wars : LAscension de Skywalker,2019,15344,Action
+245703,Midnight Special,2016,71872,Aventure
+273481,Sicario,2015,137427,Action
+281957,The Revenant,2015,223,Western
+334541,Manchester by the Sea,2016,30711,Drame
+335984,Blade Runner 2049,2017,137427,Science-Fiction
+337674,Elle,2016,10491,Drame
+343702,Comme un avion,2015,21769,Comédie
+359940,3 Billboards - Les Panneaux de la vengeance,2017,54472,Crime
+375262,La Favorite,2018,122423,Drame
+377275,Victoria,2016,1175620,Comédie
+419430,Get Out,2017,291263,Mystère
+429197,Vice,2018,55710,Drame
+451657,Jusquà  la garde,2018,19077,Drame
+453352,Une vie violente,2017,550418,Drame
+484482,Le grand bain,2018,54291,Comédie
+485162,En guerre,2018,7288,Drame
+485166,Amanda,2018,931581,Drame
+490132,Green Book : Sur les routes du sud,2018,7396,Drame
+496243,Parasite,2019,21684,Drame
