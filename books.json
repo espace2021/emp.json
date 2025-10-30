@@ -1,0 +1,20 @@
+{"id": 1, "titre": "Python Avancé", "auteur": "Jean Dupont", "prix": 45.5, "annee": 2022, "categorie": "Informatique", "pages": 350}
+{"id": 2, "titre": "Big Data", "auteur": "Marie Martin", "prix": 55.0, "annee": 2023, "categorie": "Informatique", "pages": 420}
+{"id": 3, "titre": "Roman Historique", "auteur": "Ahmed Ali", "prix": 25.0, "annee": 2021, "categorie": "Litterature", "pages": 280}
+{"id": 4, "titre": "Machine Learning", "auteur": "Jean Dupont", "prix": 65.0, "annee": 2023, "categorie": "Informatique", "pages": 500}
+{"id": 5, "titre": "Poésie Moderne", "auteur": "Fatma Ben Ali", "prix": 15.0, "annee": 2020, "categorie": "Litterature", "pages": 120}
+{"id": 6, "titre": "Intelligence Artificielle", "auteur": "Marie Martin", "prix": 70.0, "annee": 2024, "categorie": "Informatique", "pages": 480}
+{"id": 7, "titre": "Philosophie", "auteur": "Ahmed Ali", "prix": 30.0, "annee": 2022, "categorie": "Sciences Humaines", "pages": 250}
+{"id": 8, "titre": "Data Science", "auteur": "Jean Dupont", "prix": 60.0, "annee": 2024, "categorie": "Informatique", "pages": 450}
+{"id": 9, "titre": "Littérature Classique", "auteur": "Fatma Ben Ali", "prix": 20.0, "annee": 2021, "categorie": "Litterature", "pages": 300}
+{"id": 10, "titre": "Réseaux de Neurones", "auteur": "Marie Martin", "prix": 75.0, "annee": 2024, "categorie": "Informatique", "pages": 520}
+{"id": 11, "titre": "Sociologie Moderne", "auteur": "Ahmed Ali", "prix": 40.0, "annee": 2023, "categorie": "Sciences Humaines", "pages": 330}
+{"id": 12, "titre": "Algorithmes Avancés", "auteur": "Jean Dupont", "prix": 80.0, "annee": 2024, "categorie": "Informatique", "pages": 600}
+{"id": 13, "titre": "Histoire Contemporaine", "auteur": "Fatma Ben Ali", "prix": 35.0, "annee": 2022, "categorie": "Litterature", "pages": 270}
+{"id": 14, "titre": "Programmation en C++", "auteur": "Marie Martin", "prix": 50.0, "annee": 2021, "categorie": "Informatique", "pages": 400}
+{"id": 15, "titre": "Psychologie Sociale", "auteur": "Ahmed Ali", "prix": 45.0, "annee": 2024, "categorie": "Sciences Humaines", "pages": 360}
+{"id": 16, "titre": "Développement Web", "auteur": "Jean Dupont", "prix": 55.0, "annee": 2023, "categorie": "Informatique", "pages": 380}
+{"id": 17, "titre": "Littérature Contemporaine", "auteur": "Fatma Ben Ali", "prix": 28.0, "annee": 2024, "categorie": "Litterature", "pages": 310}
+{"id": 18, "titre": "Bases de Données", "auteur": "Marie Martin", "prix": 60.0, "annee": 2022, "categorie": "Informatique", "pages": 440}
+{"id": 19, "titre": "Anthropologie", "auteur": "Ahmed Ali", "prix": 38.0, "annee": 2021, "categorie": "Sciences Humaines", "pages": 290}
+{"id": 20, "titre": "Sécurité Informatique", "auteur": "Jean Dupont", "prix": 70.0, "annee": 2024, "categorie": "Informatique", "pages": 520}

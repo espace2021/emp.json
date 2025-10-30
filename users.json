@@ -1,0 +1,10 @@
+{"id": 1, "username": "ahmed123", "age": 25, "ville": "Tunis", "followers": 1200, "posts": 45, "verified": true}
+{"id": 2, "username": "fatma_dev", "age": 30, "ville": "Sfax", "followers": 3500, "posts": 120, "verified": true}
+{"id": 3, "username": "mohamed_art", "age": 22, "ville": "Sousse", "followers": 850, "posts": 30, "verified": false}
+{"id": 4, "username": "leila_photo", "age": 28, "ville": "Tunis", "followers": 5000, "posts": 200, "verified": true}
+{"id": 5, "username": "karim_sport", "age": 35, "ville": "Sfax", "followers": 650, "posts": 25, "verified": false}
+{"id": 6, "username": "amira_tech", "age": 27, "ville": "Tunis", "followers": 8000, "posts": 350, "verified": true}
+{"id": 7, "username": "youssef_music", "age": 24, "ville": "Sousse", "followers": 1500, "posts": 80, "verified": false}
+{"id": 8, "username": "sara_fashion", "age": 29, "ville": "Tunis", "followers": 4200, "posts": 150, "verified": true}
+{"id": 9, "username": "hassan_food", "age": 31, "ville": "Sfax", "followers": 300, "posts": 20, "verified": false}
+{"id": 10, "username": "nour_travel", "age": 26, "ville": "Sousse", "followers": 2700, "posts": 90, "verified": true}

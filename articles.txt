@@ -1,0 +1,6 @@
+big data hadoop spark python java scala
+spark est rapide hadoop est distribue
+python est populaire java est robuste
+big data machine learning intelligence artificielle
+spark streaming kafka hadoop yarn
+scala functional programming spark sql
